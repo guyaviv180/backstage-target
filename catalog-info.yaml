@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: backstage-target
   annotations:
-    github.com/project-slug: guyaviv180/backstage-target
+    backstage.io/techdocs-ref: value
 spec:
   type: other
-  lifecycle: unknown
   owner: guyaviv180
