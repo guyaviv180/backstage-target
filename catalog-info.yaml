@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-target
+  annotations:
+    github.com/project-slug: guyaviv180/backstage-target
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guyaviv180
